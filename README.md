@@ -68,5 +68,5 @@ let var1=document.querySelector('#var');
 <!-- Task Lists -->
 * [x] Task 1
 * [X] Task 2
-* [] Task 3
+* [ ] Task 3
 <!-- NOTE: Would show up as checkboxes when uploaded to Github -->
